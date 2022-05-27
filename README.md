@@ -2,8 +2,9 @@
 ### I'm João Victor Terzi
 ### About me...
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 👨‍🎓 Student of Computer Science at Universidade Anhembi Morumbi
+- 🔭 Mobile Developer at AfixCode
 
 ##
 
@@ -24,6 +25,8 @@
   <img height="50em" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50em" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50em" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
